@@ -247,9 +247,7 @@ results = batch_beautify_documents(files, './output_dir')
 
 MIT License
 
-## 作者
 
-资产系统设计师 & 架构师
 
 ---
 
